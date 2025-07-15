@@ -33,7 +33,13 @@ h1, p {
     border: none;
     border-radius: 6px;
     padding: 8px 16px;
+    margin-bottom: 12px;
+}
+
+.pass-chars-wrapper {
     margin-bottom: 32px;
+    color: #D5D4D8;
+    font-size: 14px;
 }
 
 .generate-btn:hover {
